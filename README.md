@@ -1,6 +1,6 @@
 Studi Komparatif Empiris Model Generatif (AE, Sparse AE, VAE, GAN, DCGAN, DDPM)
 
-Repositori ini berisi implementasi PyTorch untuk tugas Take-Home **Deep Learning (D6421) Sesi 07** pada dataset **Fashion-MNIST** (split 80% Train, 10% Validation, 10% Test, `seed=42`).
+Repositori ini berisi implementasi PyTorch
 
 Struktur Direktori
 - `src/dataset.py` : Pengunduhan otomatis Fashion-MNIST dan pembagian dataset 80/10/10.
